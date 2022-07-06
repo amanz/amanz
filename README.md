@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amanzulkafli
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics & Visualization
 - 🌱 I’m currently learning Python & R programming as well as cloud server system i.e AWS, Azure & GCP
 
 
