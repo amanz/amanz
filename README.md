@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanzulkafli
 - 👀 I’m interested in Data Analytics & Visualization
-- 🌱 I’m currently learning Python & R programming for data science and also undergoing for cloud computing certification (AWS).
+- 🌱 Specialized in Supply Chain and Logistics in Container Shipping Industry
 
 
 <!---
